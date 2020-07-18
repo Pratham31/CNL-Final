@@ -1,7 +1,7 @@
 ---
-name: Prathamesh Giri
-institution: Sandip Institute Of Technology And Research Centre, Nashik 🚩
-profile_pic: logo.jpg
-quote: Above the Salt💥
-github_user: Pratham31
+Name: Prathamesh Giri
+Institution: Sandip Institute Of Technology And Research Centre, Nashik 🚩
+Profile_pic: logo.jpg
+Quote: Above the Salt💥
+Github_user: Pratham31
 ---
